@@ -72,9 +72,9 @@ net.ipv4.tcp_congestion_control=bbr
 ## 一键脚本安装
 
 1. 下载一键安装脚本：`$ sudo curl -O https://raw.githubusercontent.com/kristianhuang/vps-v2ray/refs/heads/main/v2ray_install.sh`;
-2. 运行一键安装脚本：`$ sudo ./v2ray_install.sh`;
+2. 运行一键安装脚本：`$ sudo path/v2ray_install.sh`;
 3. （可选）下载 BBR 脚本：`$ sudo curl -O https://raw.githubusercontent.com/kristianhuang/vps-v2ray/refs/heads/main/bbr_start.sh`;
-4. （可选）运行 BBR 脚本：`$ sudo ./bbr_start.sh`;
+4. （可选）运行 BBR 脚本：`$ sudo ptah/bbr_start.sh`;
 5. 下载一键删除脚本：`$ curl -O https://raw.githubusercontent.com/kristianhuang/vps-v2ray/refs/heads/main/v2ray_remove.sh`;
-6. （可选）当需要删除 v2ray 时，关闭 v2ray 后，运行 `$ sudo ./v2ray_remove.sh`;
+6. （可选）当需要删除 v2ray 时，关闭 v2ray 后，运行 `$ sudo path/v2ray_remove.sh`;
 
