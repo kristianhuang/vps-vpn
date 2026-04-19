@@ -4,6 +4,7 @@
 sudo bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
 sudo bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-dat-release.sh)
 
+
 # set v2ray config
 sudo echo '{
   "inbounds": [
